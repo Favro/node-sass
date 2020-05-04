@@ -67,7 +67,7 @@
     "node-gyp": "^3.8.0",
     "npmlog": "^4.0.0",
     "request": "^2.88.0",
-    "sass-graph": "^2.2.4",
+    "sass-graph": "file:../sass-graph",
     "stdout-stream": "^1.4.0",
     "true-case-path": "^1.0.2"
   },
@@ -76,7 +76,7 @@
     "eslint": "^3.4.0",
     "fs-extra": "^0.30.0",
     "istanbul": "^0.4.2",
-    "mocha": "^3.1.2",
+    "mocha": "^7.1.2",
     "mocha-lcov-reporter": "^1.2.0",
     "object-merge": "^2.5.1",
     "read-yaml": "^1.0.0",
